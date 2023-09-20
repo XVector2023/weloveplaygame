@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: 法向量
+title: 平行向量
 titleTemplate: 专注于利用最先进的人工智能技术
 
 hero:
-  name: 法向量
+  name: 平行向量
   text: 创新  专业  智能
   tagline: 致力于研究和开发人工智能技术，以解决现实世界中的复杂问题
   image:

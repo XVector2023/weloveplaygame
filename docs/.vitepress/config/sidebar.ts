@@ -1,7 +1,7 @@
 import type { DefaultTheme } from 'vitepress';
 import fg from 'fast-glob';
 import matter from 'gray-matter';
-import { getChineseZodiac, getChineseZodiacAlias } from '../theme/utils.ts';
+import { getChineseZodiac, getChineseZodiacAlias } from '../theme/utils';
 const sync = fg.sync;
 
 export const sidebar: DefaultTheme.Config['sidebar'] = {
