@@ -5,7 +5,7 @@ import { getChineseZodiac, getChineseZodiacAlias } from '../theme/utils';
 const sync = fg.sync;
 
 export const sidebar: DefaultTheme.Config['sidebar'] = {
-	'/categories/lawvector/': getItemsByDate("categories/lawvector"),
+	'/categories/lawvector/': getItems("categories/lawvector"),
 	'/categories/xvector/': getItemsByDate("categories/xvector"),
 	'/courses/mybatis/': getItems("courses/mybatis"),
 }

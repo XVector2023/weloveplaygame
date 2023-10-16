@@ -22,7 +22,7 @@ export const head: HeadConfig[] = [
   ['script', {}, `var _hmt = _hmt || [];
   (function() {
     var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?53af4b1a12fbe40810ca7ad39f8db9c7";
+    hm.src = "https://hm.baidu.com/hm.js?171b18de73e4b8ff4f44d9019864a1d2";
     var s = document.getElementsByTagName("script")[0]; 
     s.parentNode.insertBefore(hm, s);
   })();`],

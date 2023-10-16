@@ -4,7 +4,15 @@ export const nav: DefaultTheme.Config['nav'] = [
   {
     text: '产品',
     items: [
-		{ text: '法向量', link: '/categories/lawvector/index', activeMatch: '/categories/lawvector/' },
+		{
+			text: '法必帮',
+			items: [{
+				text: '法必帮用户协议',
+				link: '/categories/lawvector/useragreement',
+				activeMatch: '/categories/lawvector/',
+			},
+			],
+		},
 		{ text: '法平行', link: '/categories/xvector/index', activeMatch: '/categories/xvector/' },
     ],
     activeMatch: '/categories/'
