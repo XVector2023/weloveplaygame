@@ -6,27 +6,19 @@ export const nav: DefaultTheme.Config['nav'] = [
     items: [
 		{
 			text: '法必帮',
-			items: [{
-				text: '法必帮用户协议',
-				link: '/categories/lawvector/useragreement',
-				activeMatch: '/categories/lawvector/',
-			},
-			],
+			link: 'https://lawvector.cn'
 		},
 		{ text: '法平行', link: '/categories/xvector/index', activeMatch: '/categories/xvector/' },
-    ],
-    activeMatch: '/categories/'
+    ]
   },
   {
-    text: '资讯',
+    text: '协议',
     items: [
-		{ text: '新闻', link: '/courses/mybatis/index', activeMatch: '/courses/mybatis/' },
-		{ text: '产品', link: '/courses/mybatis/index', activeMatch: '/courses/mybatis/' },
-		{ text: '模型', link: '/courses/mybatis/index', activeMatch: '/courses/mybatis/' },
-		{ text: '风险与机会', link: '/courses/mybatis/index', activeMatch: '/courses/mybatis/' },
-		{ text: '论文', link: '/courses/mybatis/index', activeMatch: '/courses/mybatis/' }
+		{ text: '法必帮用户协议', link: '/agreements/user/index', activeMatch: '/agreements/user/' },
+		{ text: '法必帮隐私协议', link: '/agreements/privacy/index', activeMatch: '/agreements/privacy/' },
+		{ text: '法必帮系列会员协议', link: '/agreements/member/index', activeMatch: '/agreements/member/' },
     ],
-    activeMatch: '/courses/'
+	  activeMatch: '/agreements/'
   },
   {
     text: '我的标签',
