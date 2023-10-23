@@ -5,10 +5,11 @@ export const nav: DefaultTheme.Config['nav'] = [
     text: '产品',
     items: [
 		{
-			text: '法必帮',
+			text: '法必帮-专业版',
 			link: 'https://lawvector.cn'
 		},
-		{ text: '法平行', link: '/categories/xvector/index', activeMatch: '/categories/xvector/' },
+		{ text: '法必帮-大众版', link: '/categories/xvector/index', activeMatch: '/categories/xvector/' },
+    { text: 'AI开放平台', link: '/categories/xvector/index', activeMatch: '/categories/xvector/' },
     ]
   },
   {
@@ -26,10 +27,8 @@ export const nav: DefaultTheme.Config['nav'] = [
     activeMatch: '/tags'
   },
   {
-    text: '关于',
-    items: [
-      { text: '关于我', link: '/about/me', activeMatch: '/about/me' }
-    ],
+    text: '关于我们',
+    link: '/about/me',
     activeMatch: '/about/'
   },
 ];
