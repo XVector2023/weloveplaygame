@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: 智能对话
-      link: https://lawvector.cn
+      link: https://law.xvector.cn
 
 features:
   - icon:
