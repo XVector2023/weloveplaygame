@@ -2,7 +2,7 @@ import type { DefaultTheme } from 'vitepress';
 
 export const nav: DefaultTheme.Config['nav'] = [
   {
-    text: '产品',
+    text: '产品服务',
     items: [
 		{
 			text: '法必帮-专业版',
