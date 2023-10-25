@@ -13,7 +13,7 @@ hero:
     alt: Logo
   actions:
     - theme: brand
-      text: 智能对话
+      text: 法律服务咨询
       link: https://law.xvector.cn
 
 features:
