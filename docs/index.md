@@ -13,7 +13,7 @@ hero:
     alt: Logo
   actions:
     - theme: brand
-      text: 法律服务咨询
+      text: 法必帮法律咨询
       link: https://law.xvector.cn
 
 features:
@@ -30,3 +30,4 @@ features:
     title: 乐于分享
     details: 关于分享，有形的物品越分越少，无形的知识越分越多。在记录与分享的过程中, 梳理所学, 交流所得, 必有所获。
 ---
+<HomeLayout></HomeLayout>
