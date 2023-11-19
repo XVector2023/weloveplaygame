@@ -11,18 +11,18 @@ const add = () => {
 	<div class="freestyle">
 		<span class="title">法必帮-专业版</span>
 		<span class="sub-title">法律行业专属AI大模型，1.4亿+国内法条案例</span>
-		<div class="card-container px-4">
+		<div class="card-container py-4">
 			<div class="card">
-				<span class="title">智能咨询</span>
-				<span class="sub-title">所有法律问题，回答有理有据，注明来源出处。</span>
+				<span class="card-title">智能咨询</span>
+				<span class="card-sub-title">所有法律问题，回答有理有据，注明来源出处。</span>
 			</div>
 			<div class="card">
-				<span class="title">类案检索</span>
-				<span class="sub-title">只需描述案情，即可检索出类案判决。</span>
+				<span class="card-title">类案检索</span>
+				<span class="card-sub-title">只需描述案情，即可检索出类案判决。</span>
 			</div>
 			<div class="card">
-				<span class="title">文档录音总结</span>
-				<span class="sub-title">高效总结，迅速锁定重点，高效办案。</span>
+				<span class="card-title">文档录音总结</span>
+				<span class="card-sub-title">高效总结，迅速锁定重点，高效办案。</span>
 			</div>
 		</div>
 	</div>
@@ -58,6 +58,8 @@ const add = () => {
 	align-items: center;
 	flex-direction: row;
 	gap: 1rem/* 8px */;
+	padding-top: 1rem/* 16px */;
+    padding-bottom: 1rem/* 16px */;
 	padding-left: 2rem/* 16px */;
     padding-right: 2rem/* 16px */;
 
@@ -66,30 +68,28 @@ const add = () => {
 		justify-content: flex-start;
 		align-items: flex-start;
 		flex-direction: column;
+		padding-top: 1rem/* 16px */;
+    	padding-bottom: 1rem/* 16px */;
+		padding-left: 2rem/* 16px */;
+    	padding-right: 2rem/* 16px */;
 		border-width: 1px;
 		border-radius: 0.375rem/* 6px */;
 		background-color: rgb(241 245 249);
 
-		.title {
+		.card-title {
 			text-align: center;
 			margin-top: 1rem/* 16px */;
 			margin-bottom: 1rem/* 16px */;
 			color: black;
-			font-size: 32px;
+			font-size: 24px;
 			font-weight: 700;
 		}
-		.sub-title {
+		.card-sub-title {
 			text-align: start;
 			margin-bottom: 0.25rem/* 4px */;
-			font-size: 24px;
+			font-size: 20px;
 			color:black;
 		}
 	}
-}
-
-.btn {
-	width: 50px;
-	height: 50px;
-	border: 1px solid green;
 }
 </style>
