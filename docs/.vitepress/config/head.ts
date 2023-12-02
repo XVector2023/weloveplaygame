@@ -17,7 +17,17 @@ export const head: HeadConfig[] = [
   ['meta', { property: 'og:site', content: metaData.site }],
   ['meta', { property: 'og:site_name', content: metaData.title }],
   ['meta', { property: 'og:image', content: metaData.image }],
-
+  // 腾讯云可观测平台
+  ['script', { src: 'https://tam.cdn-go.cn/aegis-sdk/latest/aegis.min.js' }],
+  ['script', {}, `if (typeof Aegis === 'function') {
+          var aegis = new Aegis({
+            id: 'VDzwVHdD1yZgmwrOe9',
+            reportApiSpeed: true,
+            reportAssetSpeed: true,
+            spa: true,
+          hostUrl: 'https://rumt-zh.com'
+          });
+  }`],
   // 百度统计代码：https://tongji.baidu.com
   ['script', {}, `var _hmt = _hmt || [];
   (function() {
@@ -52,8 +62,8 @@ export const head: HeadConfig[] = [
   }, true);
 
   function getPv() {
-    xhr = new XMLHttpRequest();
-    xhr.open('GET', 'https://api.charles7c.top/blog/pv?pageUrl=' + location.href);
-    xhr.send();
+    // xhr = new XMLHttpRequest();
+    // xhr.open('GET', 'https://api.xvector.cn/pv?pageUrl=' + location.href);
+    // xhr.send();
   }`]
 ];
