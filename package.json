@@ -29,6 +29,7 @@
     "vue": "^3.3.4"
   },
   "dependencies": {
+    "aegis-web-sdk": "^1.38.9",
     "axios": "^1.4.0",
     "blueimp-md5": "^2.19.0",
     "dayjs": "^1.11.9",
