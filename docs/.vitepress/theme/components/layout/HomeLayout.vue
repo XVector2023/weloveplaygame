@@ -9,22 +9,22 @@ const add = () => {
 
 <template>
 	<div class="freestyle">
-		<span class="title">法必帮-专业版</span>
-		<span class="sub-title">法律行业专属AI大模型，1.4亿+国内法条案例</span>
-		<div class="card-container py-4">
-			<div class="card">
-				<span class="card-title">智能咨询</span>
-				<span class="card-sub-title">所有法律问题，回答有理有据，注明来源出处。</span>
+		<span class="title">法必帮-大众版</span>
+			<span class="sub-title">有法律问题就找法必帮</span>
+			<div class="card-container py-4">
+				<div class="card">
+					<span class="card-title">连接信息</span>
+					<span class="card-sub-title">让用户找到自己最需要的信息。</span>
+				</div>
+				<div class="card">
+					<span class="card-title">连接律师</span>
+					<span class="card-sub-title">基于自身案情，快速匹配合适的律师。</span>
+				</div>
+				<div class="card">
+					<span class="card-title">连接法友</span>
+					<span class="card-sub-title">基于自身案情，快速匹配类似用户。</span>
+				</div>
 			</div>
-			<div class="card">
-				<span class="card-title">类案检索</span>
-				<span class="card-sub-title">只需描述案情，即可检索出类案判决。</span>
-			</div>
-			<div class="card">
-				<span class="card-title">文档录音总结</span>
-				<span class="card-sub-title">高效总结，迅速锁定重点，高效办案。</span>
-			</div>
-		</div>
 	</div>
 </template>
 
@@ -34,6 +34,7 @@ const add = () => {
 	justify-content: center;
 	align-items: center;
 	width: 100%;
+	margin-top: 36px;
 	flex-direction: column;
 
 	.title {
