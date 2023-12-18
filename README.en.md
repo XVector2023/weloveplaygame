@@ -1,6 +1,4 @@
-English | [中文](./README.md)
-
-# Charles's Repositories
+# 平行向量科技
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">
     <img src="https://img.shields.io/badge/Post%20License-CC%204.0%20BY--SA-blue.svg">
@@ -13,6 +11,4 @@ English | [中文](./README.md)
 </a>
 
 
-📝 **This is the charles's personal technology knowledge repositories website.** 
-
-🐢 [GitHub Pages](https://blog.charles7c.top) | 🐇 [Gitee Pages](https://charles7c.gitee.io)
+📝 **深圳平行向量科技有限公司官网.**
