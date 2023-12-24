@@ -16,5 +16,7 @@ showComment: false
 
 联系地址：深圳市南山区粤海街道科技园社区科发路2号30区3栋262
 
+E-mail：<service@xvector.ai>
+
 联系电话：17704084392
 ![尾部图](../public/img/svg/about-footer.svg)

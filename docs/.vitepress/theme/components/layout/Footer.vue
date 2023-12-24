@@ -3,7 +3,7 @@
     <div class="container">
 	  <p class="contact-us">
 		<span class="content">
-			联系地址：深圳市南山区粤海街道科技园社区科发路2号30区3栋262&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话：17704084392
+			联系地址：深圳市南山区粤海街道科技园社区科发路2号30区3栋262&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail：service@xvector.ai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话：17704084392
 		</span>
 	  </p>
       <p v-if="theme.footerConfig.icpRecordCode" class="recordCode">
