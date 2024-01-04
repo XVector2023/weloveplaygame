@@ -67,7 +67,7 @@ export const themeConfig: DefaultTheme.Config = {
 	footerConfig: {
 		showFooter: true, // 是否显示页脚
 		icpRecordCode: '粤ICP备2023091461号', // ICP备案号
-		// publicSecurityRecordCode: '津公网安备12011202000677号', // 联网备案号
+		publicSecurityRecordCode: '粤公网安备44030002002023', // 联网备案号
 		copyright: `Copyright © 2023-${new Date().getFullYear()} XVector Tech. All Rights Reserved` // 版权信息
 	}
 }
