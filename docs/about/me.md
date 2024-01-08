@@ -18,5 +18,5 @@ showComment: false
 
 E-mail：<service@xvector.ai>
 
-联系电话：17704084392
+联系电话：18612533679
 ![尾部图](../public/img/svg/about-footer.svg)
