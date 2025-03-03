@@ -1,11 +1,11 @@
 ---
-title: 关于我们
+title: About US
 aside: false
 editLink: false
 lastUpdated: false
 showComment: false
 ---
-![头部图](../public/img/svg/about-me-header.svg)
+![Header](../public/img/svg/about-me-header.svg)
 
 ---
 平行向量全称深圳平行向量科技有限公司，是一家新兴的人工智能公司，专注于利用最先进的**人工智能技术**，为各行各业提供智能化解决方案。
