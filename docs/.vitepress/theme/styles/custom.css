@@ -111,3 +111,8 @@ mjx-container > svg {
 .mr-\[6px\] {
   margin-right: 6px;
 }
+
+/* 仅在暗黑模式下反转颜色 */
+html.dark img[src="/img/svg/logo.svg"] {
+  filter: invert(1);
+}

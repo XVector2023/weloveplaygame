@@ -8,15 +8,12 @@ showComment: false
 ![Header](../public/img/svg/about-me-header.svg)
 
 ---
-平行向量全称深圳平行向量科技有限公司，是一家新兴的人工智能公司，专注于利用最先进的**人工智能技术**，为各行各业提供智能化解决方案。
-我们的团队由一群富有创新精神和专业知识的人才组成，他们致力于研究和开发人工智能技术，以解决现实世界中的复杂问题。
-我们的产品和服务包括但不限于**自然语言处理、机器学习、深度学习、计算机视觉**等领域。我们的目标是通过我们的技术和服务，帮助客户提高效率，降低成本，实现业务的快速发展和创新。
-
-平行向量目前推出产品法必帮，希望能够帮所有遇到法律问题的用户通过AI解决基础的信息搜集，找到合适的律师，找到案情类似的法友。
-
-联系地址：深圳市南山区粤海街道科技园社区科发路2号30区3栋262
+we specialize in the strategic operation and enhancement of premium game applications by integrating advanced **AI 
+technologies** with data-driven marketing. 
+We acquire high-value game apps and optimize them using **precision-targeted advertising**, **machine learning 
+analytics**, 
+and innovative digital strategies to maximize user engagement and boost ad revenue, fueling sustainable, long-term growth.
 
 E-mail：<service@xvector.ai>
 
-联系电话：18612533679
 ![尾部图](../public/img/svg/about-footer.svg)

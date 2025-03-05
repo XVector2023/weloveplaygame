@@ -5,15 +5,15 @@ export const localSearchOptions: DefaultTheme.LocalSearchOptions = {
     root: {
       translations: {
         button: {
-          buttonText: '搜索文档',
-          buttonAriaLabel: '搜索文档'
+          buttonText: 'Search',
+          buttonAriaLabel: 'Search documents'
         },
         modal: {
-          noResultsText: '无法找到相关结果',
-          resetButtonTitle: '清除查询条件',
+          noResultsText: 'No relevant results found',
+          resetButtonTitle: 'Clear query',
           footer: {
-            selectText: '选择',
-            navigateText: '切换'
+            selectText: 'Select',
+            navigateText: 'Navigate'
           }
         }
       }

@@ -13,7 +13,7 @@
 					</path>
 				</svg>
 			</span>
-			<span class="tag-breadcrumb-item">我的标签</span>
+			<span class="tag-breadcrumb-item">My Tags</span>
 		</div>
 
 		<!-- 内容 -->

@@ -4,7 +4,6 @@ import './styles/vars.css';
 import './styles/custom.css';
 import axios from 'axios';
 import api from './api/index';
-import HomeLayout from './components/layout/HomeLayout.vue'
 
 export default {
   ...DefaultTheme,
@@ -21,6 +20,6 @@ export default {
 	  }
 
       // register your custom global components
-	  ctx.app.component('HomeLayout', HomeLayout)
+	  // ctx.app.component('HomeLayout', HomeLayout)
   }
 }

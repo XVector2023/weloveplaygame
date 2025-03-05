@@ -1,10 +1,10 @@
 const site = 'https://xvector.cn';
 
 export const metaData = {
-  lang: 'zh-CN',
-  locale: 'zh_CN',
-  title: '平行向量',
-  description: '人工智能服务平台——法律智能问答',
+  lang: 'zh-US',
+  locale: 'zh_US',
+  title: 'We love play game',
+  description: 'Empowering game apps through AI-driven digital transformation for limitless growth',
   site,
-  image: `${site}/logo.png`,
+  image: `${site}/img/svg/logo.svg`,
 };

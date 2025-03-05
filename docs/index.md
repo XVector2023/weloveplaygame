@@ -1,33 +1,33 @@
 ---
 layout: home
 
-title: 平行向量
-titleTemplate: 专注于利用最先进的人工智能技术
+title: We love play game
+titleTemplate: Empowering game apps through AI-driven digital transformation for limitless growth
 
 hero:
-  name: 平行向量
-  text: 创新  专业  智能
-  tagline: 致力于研究和开发人工智能技术，以解决现实世界中的复杂问题
+  name: We love play game
+  text: Innovation, Intelligence, Scalability
+  tagline: Empowering game apps through AI-driven digital transformation for limitless growth.
   image:
     src: /img/svg/logo.svg
     alt: Logo
   actions:
     - theme: brand
-      text: 法必帮法律咨询
-      link: https://law.xvector.cn
+      text: XVector
+      link: https://xvector.ai
 
 features:
   - icon:
-      src: img/svg/focus.svg
-    title: 智能咨询
-    details: 所有法律问题，回答有理有据，注明来源出处。
+      src: img/svg/knowledge.svg
+    title: Innovation
+    details: Embrace creative disruption by integrating advanced AI and cutting-edge digital marketing strategies, continuously pioneering breakthrough solutions in the gaming industry
   - icon:
       src: img/svg/insight.svg
-    title: 类案检索
-    details: 只需描述案情，即可检索出类案判决。
+    title: Intelligence
+    details: Leverage state-of-the-art machine learning and data analytics to extract actionable insights, optimize campaigns, and drive highly targeted user engagement
   - icon:
-      src: img/svg/knowledge.svg
-    title: 文档录音总结
-    details: 高效总结，迅速锁定重点，高效办案。
+      src: img/svg/focus.svg
+    title: Scalability
+    details: Develop robust, adaptive systems that effortlessly expand in capacity and performance, ensuring sustainable growth as market dynamics evolve
 ---
 <HomeLayout></HomeLayout>

@@ -4,7 +4,7 @@ import { metaData } from './constants';
 export const head: HeadConfig[] = [
   ['link', { rel: 'icon', href: '/favicon.ico' }],
   ['meta', { name: 'author', content: 'Jack' }],
-  ['meta', { name: 'keywords', content: '平行向量, 法向量, 法平行, 法律' }],
+  ['meta', { name: 'keywords', content: 'xvector, game, play game' }],
 
   ['meta', { name: 'HandheldFriendly', content: 'True' }],
   ['meta', { name: 'MobileOptimized', content: '320' }],
@@ -18,16 +18,16 @@ export const head: HeadConfig[] = [
   ['meta', { property: 'og:site_name', content: metaData.title }],
   ['meta', { property: 'og:image', content: metaData.image }],
   // 腾讯云可观测平台
-  ['script', { src: 'https://tam.cdn-go.cn/aegis-sdk/latest/aegis.min.js' }],
-  ['script', {}, `if (typeof Aegis === 'function') {
-          var aegis = new Aegis({
-            id: 'VDzwVHdD1yZgmwrOe9',
-            reportApiSpeed: true,
-            reportAssetSpeed: true,
-            spa: true,
-          hostUrl: 'https://rumt-zh.com'
-          });
-  }`],
+  // ['script', { src: 'https://tam.cdn-go.cn/aegis-sdk/latest/aegis.min.js' }],
+  // ['script', {}, `if (typeof Aegis === 'function') {
+  //         var aegis = new Aegis({
+  //           id: 'VDzwVHdD1yZgmwrOe9',
+  //           reportApiSpeed: true,
+  //           reportAssetSpeed: true,
+  //           spa: true,
+  //         hostUrl: 'https://rumt-zh.com'
+  //         });
+  // }`],
   // 百度统计代码：https://tongji.baidu.com
   ['script', {}, `var _hmt = _hmt || [];
   (function() {

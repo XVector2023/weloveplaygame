@@ -6,7 +6,7 @@
  */
 export function formatDate(date) {
   const formatDate = new Date(date);
-  return formatDate.toLocaleString('zh', {year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric'});
+  return formatDate.toLocaleString('en', {year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric'});
 }
 
 /**
