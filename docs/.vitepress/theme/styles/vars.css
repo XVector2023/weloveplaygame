@@ -17,17 +17,22 @@
   );
   --vp-home-hero-image-filter: blur(40px);
 
-  /* 1.0.0-beta.7 及以前版本配色方案 */
-  --vp-c-brand: var(--vp-c-green);
-  --vp-c-brand-light: var(--vp-c-green-light);
-  --vp-c-brand-lighter: var(--vp-c-green-lighter);
-  --vp-c-brand-lightest: var(--vp-c-green-lightest);
-  --vp-c-brand-dark: var(--vp-c-green-dark);
-  --vp-c-brand-darker: var(--vp-c-green-darker);
-  --vp-c-brand-darkest: var(--vp-c-green-darkest);
-  --vp-c-brand-dimm-1: var(--vp-c-green-dimm-1);
-  --vp-c-brand-dimm-2: var(--vp-c-green-dimm-2);
-  --vp-c-brand-dimm-3: var(--vp-c-green-dimm-3);
+  /* 定义新的颜色变量 */
+  --vp-c-brand: #00ff9d;
+  --vp-c-brand-light: #33ffb1;
+  --vp-c-brand-lighter: #7de8bd;
+  --vp-c-brand-lightest: #a0f0d2;
+  --vp-c-brand-dark: #00cc7d;
+  --vp-c-brand-darker: #289f66;
+  --vp-c-brand-darkest: #1b8550;
+  --vp-c-brand-dimm-1: rgba(66, 211, 146, 0.5);
+  --vp-c-brand-dimm-2: rgba(66, 211, 146, 0.25);
+  --vp-c-brand-dimm-3: rgba(66, 211, 146, 0.05);
+
+  /* 霓虹效果 */
+  --neon-glow: 0 0 10px var(--vp-c-brand),
+  0 0 20px var(--vp-c-brand),
+  0 0 30px var(--vp-c-brand-light);
 }
 
 @media (min-width: 640px) {

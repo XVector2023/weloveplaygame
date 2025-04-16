@@ -11,11 +11,11 @@ export const themeConfig: DefaultTheme.Config = {
 	logo: '/img/svg/logo.svg',
 	outline: {
 		level: 'deep', // 右侧大纲标题层级
-		label: '目录', // 右侧大纲标题文本配置
+		label: 'Directory', // 右侧大纲标题文本配置
 	},
 	darkModeSwitchLabel: 'light/dark',
-	sidebarMenuLabel: '文章',
-	returnToTopLabel: '返回顶部',
+	sidebarMenuLabel: 'Article',
+	returnToTopLabel: 'back to top',
 	// 文档页脚文本配置
 	docFooter: {
 		prev: 'Previous',
@@ -67,6 +67,6 @@ export const themeConfig: DefaultTheme.Config = {
 		showFooter: true, // 是否显示页脚
 		icpRecordCode: '粤ICP备2023091461号', // ICP备案号
 		publicSecurityRecordCode: '粤公网安备44030002002023', // 联网备案号
-		copyright: `Copyright © 2023-${new Date().getFullYear()} XVector Tech. All Rights Reserved` // 版权信息
+		copyright: `Copyright © 2023-${new Date().getFullYear()} WeLovePlayGame. All Rights Reserved` // 版权信息
 	}
 }

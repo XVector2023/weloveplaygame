@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="z-index:1;position:relative"
-     width="854" height="120" viewBox="0 0 854 120">
+     width="854" height="120" viewBox="0 0 854 120" preserveAspectRatio="none">
     <style>
         .text {
         font-size: 70px;

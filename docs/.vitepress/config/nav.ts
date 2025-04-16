@@ -22,6 +22,11 @@ export const nav: DefaultTheme.Config['nav'] = [
 	//   activeMatch: '/agreements/'
   // },
   {
+    text: 'Privacy',
+    link: '/agreements/privacy/index',
+    activeMatch: '/agreements/privacy/'
+  },
+  {
     text: 'About Me',
     link: '/about/me',
     activeMatch: '/about/'

@@ -1,4 +1,4 @@
-const site = 'https://xvector.cn';
+const site = 'https://weloveplaygame.com';
 
 export const metaData = {
   lang: 'zh-US',

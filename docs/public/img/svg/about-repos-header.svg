@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="z-index:1;position:relative" width="854" height="180"
-     viewBox="0 0 854 180">
+     viewBox="0 0 854 180" preserveAspectRatio="none">
     <style>
         .text {
         font-size: 30px;
@@ -39,7 +39,7 @@
     </g>
 
     <text text-anchor="middle" alignment-baseline="middle" x="50%" y="35%" class="text" style="fill:#fff;"
-          stroke="#none" stroke-width="1">About Us
+          stroke="none" stroke-width="1">About Us
     </text>
 
 </svg>

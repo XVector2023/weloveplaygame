@@ -16,12 +16,8 @@ export function formatDate(date) {
  * @returns 参数值
  */
 export function getQueryParam(paramName) {
-  const reg = new RegExp("(^|&)"+ paramName +"=([^&]*)(&|$)");
-  let value = decodeURIComponent(window.location.search.substr(1)).match(reg);
-  if (value != null) {
-    return unescape(value[2]);
-  } 
-  return null;
+  const url = new URL(window.location.href);
+  return url.searchParams.get(paramName);
 }
 
 /**
