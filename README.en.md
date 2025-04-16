@@ -1,4 +1,4 @@
-# XVector
+# weloveplaygame
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">
     <img src="https://img.shields.io/badge/Post%20License-CC%204.0%20BY--SA-blue.svg"/>
