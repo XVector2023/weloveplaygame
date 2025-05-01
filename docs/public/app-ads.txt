@@ -537,6 +537,9 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
 # ===== Unity 授权条目 =====
+sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+sharethrough.com, sniqcomc, RESELLER, d53b998a7bd4ecd2
 algorix.co, 54616, reseller, 5b394c12fea27a1d
 e-planning.net, 79686787743ddfc5, reseller, c1ba615865ed87b2
 loopme.com, 9621, reseller, 6c8d5f95897a5a3b
